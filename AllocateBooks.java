@@ -1,3 +1,5 @@
+package SDESHEET;
+
 public class AllocateBooks {
 
     public static int allocateBooks(int[] books, int students) {

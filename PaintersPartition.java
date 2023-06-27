@@ -1,4 +1,6 @@
 
+
+package SDESHEET;
 public class PaintersPartition {
 
     public static int partitionPainters(int[] boards, int painters) {

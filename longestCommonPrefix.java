@@ -1,3 +1,5 @@
+
+package SDESHEET;
 public class longestCommonPrefix {
     public static String longestCommonPrefix(String[] strs) {
         if (strs.length == 0) return "";
