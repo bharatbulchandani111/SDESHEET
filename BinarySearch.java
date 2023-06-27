@@ -1,3 +1,5 @@
+package SDESHEET;
+
 public class BinarySearch {
 
     public static int countOccurrences(int[] arr, int target) {

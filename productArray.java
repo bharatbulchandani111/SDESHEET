@@ -1,3 +1,4 @@
+package SDESHEET;
 import java.util.Arrays;
 
 public class productArray {

@@ -1,3 +1,4 @@
+package SDESHEET;
 public class removeDuplicates {
     public static int removeDuplicates(int[] nums) {
         int shiftDistance = 0;
