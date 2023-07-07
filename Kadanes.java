@@ -1,4 +1,6 @@
-public class KadanesAlgo {
+
+package SDESHEET;
+public class Kadanes {
     static int Kadanes(int[] arr) {
         int max=0;
         int curr=0;
